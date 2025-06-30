@@ -50,7 +50,8 @@ Even though this isn’t a finished or polished game, I’m sharing it because:
 
 ## 📸 Screenshots
 
-
+![Wave Skipper Screenshot](image.png)
+![Wave Skipper Screenshot](image1.png)
 
 ---
 
