@@ -57,5 +57,5 @@ Even though this isn’t a finished or polished game, I’m sharing it because:
 
 ## 🗂 File Structure
 
-wave_skipper.py  # the main and only game file
+game.py  # the main and only game file
 README.md        # you're reading it
